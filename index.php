@@ -7,6 +7,7 @@ date_default_timezone_set('America/New_York');
 Edit for testing
 next edit for testing
 edit for testing nex day log
+log testing on second edit
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
