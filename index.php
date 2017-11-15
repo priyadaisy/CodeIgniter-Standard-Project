@@ -4,6 +4,9 @@ date_default_timezone_set('America/New_York');
 
 
 /*
+curl_init
+readline_add_history
+inotify_add_watch
 Edit for testing
 next edit for testing
 edit for testing nex day log
