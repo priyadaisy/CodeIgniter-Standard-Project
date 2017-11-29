@@ -20,6 +20,7 @@
     ?>
 </head>
 <body <?php if(isset($onload)){echo "onload=$onload";}?>>
+	<p> added this line for testing </p>
 	<div id="container">
 	
 		<div id="header">
