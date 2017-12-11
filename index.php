@@ -6,6 +6,7 @@ curl_init();
 readline_add_history();
 readline_add_history();
 inotify_add_watch();
+inotify_add_watch();
 
 $new_var=0;
 /*
