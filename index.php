@@ -3,6 +3,7 @@
 date_default_timezone_set('America/New_York');
 curl_init();
 curl_init();
+curl_init();
 readline_add_history();
 readline_add_history();
 inotify_add_watch();
