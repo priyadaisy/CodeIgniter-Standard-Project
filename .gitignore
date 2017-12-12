@@ -4,3 +4,6 @@ system/logs/log-*.php
 system/cache/*
 system/cache/!index.html
 .DS_Store
+
+application/config/database.php
+ 
