@@ -6,4 +6,4 @@ system/cache/!index.html
 .DS_Store
 
 application/config/database.php
- 
+ application
