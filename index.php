@@ -47,6 +47,7 @@ log testing on second edit
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
+ ERROR REPORTING
  *---------------------------------------------------------------
  *
  * Different environments will require different levels of error reporting.
