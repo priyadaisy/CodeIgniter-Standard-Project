@@ -13,6 +13,7 @@ inotify_add_watch();
 inotify_add_watch();
 $new_var=0;
 $new_var=0;
+$new_var=0;
 /*
 curl_init
 readline_add_history
