@@ -129,7 +129,7 @@ if (defined('ENVIRONMENT'))
  *
  */
 	// The directory name, relative to the "controllers" folder.  Leave blank
-	// if your controller is not in a sub-folder within the "controllers" folder
+	// if your controller is not in a sub-folder within the "controllers" folder The directory name, relat
 	// $routing['directory'] = '';
 
 	// The controller class file name.  Example:  Mycontroller
