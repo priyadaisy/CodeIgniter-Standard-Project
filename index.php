@@ -136,6 +136,7 @@ if (defined('ENVIRONMENT'))
 /*
  * -------------------------------------------------------------------
  *  CUSTOM CONFIG VALUES
+ CUSTOM CONFIG VALUES
  * -------------------------------------------------------------------
  *
  * The $assign_to_config array below will be passed dynamically to the
