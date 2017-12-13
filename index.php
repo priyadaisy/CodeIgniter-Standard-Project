@@ -35,7 +35,7 @@ log testing on second edit
  APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
  *
- * You can load different configurations depending on your
+ * You can load different configurations depending on your configurations depending on your
  * current environment. Setting the environment also influences
  * things like logging and error reporting.
  *
