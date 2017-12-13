@@ -94,6 +94,7 @@ if (defined('ENVIRONMENT'))
 /*
  *---------------------------------------------------------------
  * APPLICATION FOLDER NAME
+ APPLICATION FOLDER NAME
  *---------------------------------------------------------------
  *
  * If you want this front controller to use a different "application"
