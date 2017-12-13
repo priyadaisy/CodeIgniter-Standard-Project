@@ -160,6 +160,8 @@ if (defined('ENVIRONMENT'))
 /*
  * ---------------------------------------------------------------
  *  Resolve the system path for increased reliability
+ 
+ Resolve the system path for increased reliability
  * ---------------------------------------------------------------
  */
 
