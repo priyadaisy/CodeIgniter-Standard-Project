@@ -150,6 +150,7 @@ if (defined('ENVIRONMENT'))
  * config class when initialized. This allows you to set custom config
  * items or override any default config values found in the config.php file.
  * This can be handy as it permits you to share one application between
+  multiple front controller files, 
  * multiple front controller files, with each file containing different
  * config values.
  *
