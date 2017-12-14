@@ -11,6 +11,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 -- --------------------------------------------------------
 DROP TABLE IF EXISTS `groups`;
+DROP TABLE IF EXISTS `groups`;
 
 #
 # Table structure for table 'groups'
