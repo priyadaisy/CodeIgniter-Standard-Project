@@ -7,3 +7,4 @@ by [Ben Edmunds](http://benedmunds.com)
 
 * Ion_Auth 2 branch as a submodule
   https://github.com/benedmunds/CodeIgniter-Ion-Auth
+  master
