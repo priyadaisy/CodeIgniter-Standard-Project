@@ -37,6 +37,19 @@ p {
 	overflow: hidden;
 }
 
+p {
+	font-size: 14px;
+}
+
+#container {
+	text-align: center;
+	width: 800px;
+	background: #FFF;
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow: hidden;
+}
+
 #header {
 	width: 100%;
 	text-align: left;
